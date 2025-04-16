@@ -1,7 +1,7 @@
 import tkinter as tk
 import customtkinter as ctk
-from PresetConfig import ThemeManager, ButtonStyles, EntryStyles, LayoutSettings
 from PIL import ImageColor
+from PresetConfig import ThemeManager, ButtonStyles, EntryStyles, LayoutSettings
 
 
 class Calculator(ctk.CTk):
