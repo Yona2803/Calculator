@@ -63,10 +63,10 @@ Calculator<br>
 ## 🖼️ Screenshots
 
 ### Dark Mode  
-**
+*![Calculator-Dark](https://github.com/user-attachments/assets/60f2f5c7-a8ca-4368-9a75-d60df927f1c6)*
 
 ### Light Mode  
-**
+*![Calculator-Light](https://github.com/user-attachments/assets/6e4290db-1529-4a3b-a556-4c11ab6e77fb)*
 
 ---
 
